@@ -4,15 +4,11 @@
   "description": "Project",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
   },
   "keywords": [
     "Javascript",
     "Asynchronism"
   ],
   "author": "León Cantillo \"cleonjd17@gmail.com\"",
-  "license": "MIT",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "license": "MIT"
 }
